@@ -1,6 +1,10 @@
 # Data-science-capstone
 Bee Colony loss 
 
+
+
+
+
 Data for capstone project was obtained from Bee Informed https://bip2.beeinformed.org/loss-map/
 
 Prepared data in cvs and xlsx files can be found on https://data.world/finley/bee-colony-statistical-data-from-1987-2017
